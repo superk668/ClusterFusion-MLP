@@ -1,7 +1,6 @@
 # OmniClusterFusion - MLP Part
 
-This project is the mlp part of the project OmniClusterFusion. Refer to the link for further information.
-OmniClusterFusion implements a CUDA-accelerated decoder layer for EleutherAI Pythia-2.8B model, and this repo focuses on the **MLP Down Projection** computation.
+This project is the mlp part of the project OmniClusterFusion. Refer to the link for further information. OmniClusterFusion implements a **CUDA-accelerated decoder** layer for EleutherAI Pythia-2.8B model, and this repo focuses on the **MLP Down Projection** computation.
 
 ## Files
 
